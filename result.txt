@@ -1,0 +1,9 @@
+high score:left
+tag_found=true
+decided=true
+tip_side=right
+circle_color=red
+square_color=blue
+same_color=false
+tip_margin=0.4896
+note=circle=red  square=blue  (diff)  tip=right

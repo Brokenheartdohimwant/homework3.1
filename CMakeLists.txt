@@ -36,3 +36,4 @@ target_link_libraries(RM_HighScore PRIVATE
 if(MSVC)
     target_compile_options(RM_HighScore PRIVATE /utf-8)
 endif()
+
